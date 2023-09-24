@@ -1,2 +1,2 @@
-# draw-canva-website-
-a canva to daw, you can draw, erase, undo and redo your changes
+# draw-canvas-website-
+a canvas to draw, you can draw, erase, undo and redo your changes
